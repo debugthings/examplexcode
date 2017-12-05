@@ -17,7 +17,7 @@
                BlueprintIdentifier = "E7243EA719C2CB9E00E1E9C4"
                BuildableName = "XScheme.app"
                BlueprintName = "XScheme"
-               ReferencedContainer = "container:XScheme.xcodeproj">
+               ReferencedContainer = "container:ExampleXcode.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "E7243EC819C2CB9E00E1E9C4"
                BuildableName = "XSchemeTests.xctest"
                BlueprintName = "XSchemeTests"
-               ReferencedContainer = "container:XScheme.xcodeproj">
+               ReferencedContainer = "container:ExampleXcode.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -49,7 +49,7 @@
                BlueprintIdentifier = "E7243EC819C2CB9E00E1E9C4"
                BuildableName = "XSchemeTests.xctest"
                BlueprintName = "XSchemeTests"
-               ReferencedContainer = "container:XScheme.xcodeproj">
+               ReferencedContainer = "container:ExampleXcode.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -59,7 +59,7 @@
             BlueprintIdentifier = "E7243EA719C2CB9E00E1E9C4"
             BuildableName = "XScheme.app"
             BlueprintName = "XScheme"
-            ReferencedContainer = "container:XScheme.xcodeproj">
+            ReferencedContainer = "container:ExampleXcode.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -78,7 +78,7 @@
             BlueprintIdentifier = "E7243EA719C2CB9E00E1E9C4"
             BuildableName = "XScheme.app"
             BlueprintName = "XScheme"
-            ReferencedContainer = "container:XScheme.xcodeproj">
+            ReferencedContainer = "container:ExampleXcode.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -96,7 +96,7 @@
             BlueprintIdentifier = "E7243EA719C2CB9E00E1E9C4"
             BuildableName = "XScheme.app"
             BlueprintName = "XScheme"
-            ReferencedContainer = "container:XScheme.xcodeproj">
+            ReferencedContainer = "container:ExampleXcode.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
